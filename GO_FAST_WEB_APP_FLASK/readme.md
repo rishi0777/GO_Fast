@@ -12,3 +12,21 @@ in the requirements.txt file
     pip install -r requirements.txt 
     ```
 ## Screenshots
+
+![image description](./Screenshots/gofast1.png) 
+
+![image description](./Screenshots/gofast2.png) 
+
+![image description](./Screenshots/gofast3.png) 
+
+![image description](./Screenshots/gofast4.png) 
+
+![image description](./Screenshots/gofast5.png) 
+
+![image description](./Screenshots/gofast6.png) 
+
+![image description](./Screenshots/gofast7.png) 
+
+![image description](./Screenshots/gofast8.png)
+
+![image description](./Screenshots/gofast9.png)
